@@ -1,1 +1,2 @@
-Este repositorio diz respeito a todo conteúdo aprendido durante o curso pela escola EBAC - Escola Britânica de Artes Criativas e Tecnologia.
+Está foi minha primeira experiencia com o GIT e GitHub, tanto via CDM quanto via VSCode.
+
